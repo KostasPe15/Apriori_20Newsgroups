@@ -9,4 +9,4 @@ Learning to filter netnews paper, though he does not explicitly mention this col
 The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, 
 such as text classification and text clustering.
 
-The project contains the dataset and a csv file with the association rules that was produced.
+The project contains the dataset and a csv file with the association rules that were produced.
