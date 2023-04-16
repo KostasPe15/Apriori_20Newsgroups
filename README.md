@@ -1,4 +1,5 @@
 # Apriori_20Newsgroups
+
 A python project that finds association rules in the 20 Newsgroups collection using the Apriori algorithm.
 
 http://qwone.com/~jason/20Newsgroups/
